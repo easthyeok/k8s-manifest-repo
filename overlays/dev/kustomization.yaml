@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 188810905744.dkr.ecr.ap-northeast-2.amazonaws.com/dhkim-frontend
   newName: 188810905744.dkr.ecr.ap-northeast-2.amazonaws.com/dhkim-frontend
-  newTag: abcdefg
+  newTag: 2e61aa25
 resources:
 - ../../base
 patchesStrategicMerge:
